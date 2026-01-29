@@ -1,0 +1,110 @@
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Jan/2026:23:24:13 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Jan/2026:23:24:13 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Jan/2026:00:12:08 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Jan/2026:00:12:33 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Jan/2026:00:15:36 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Jan/2026:00:16:58 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Jan/2026:00:17:31 +0000] \"GET /api HTTP/1.1\" 200 41 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Jan/2026:00:17:58 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Jan/2026:00:18:53 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:00:41:47 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:00:41:48 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:00:49:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:08:27 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:08:56 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:11:49 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:14:03 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1395 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:15:18 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1395 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:20:01 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1395 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:26:37 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: contact@jsmastery.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:01:27:48 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 105 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:21:04:44 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:21:05:04 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:21:05:38 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:21:11:17 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:21:35:09 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:21:35:11 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:23:23:34 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:23:35:57 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:23:36:15 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [23/Jan/2026:23:49:18 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Jan/2026:23:52:06 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Jan/2026:23:52:15 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Jan/2026:23:56:10 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Jan/2026:23:56:17 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [24/Jan/2026:23:56:27 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [24/Jan/2026:23:57:33 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [24/Jan/2026:23:58:14 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [25/Jan/2026:00:04:17 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Jan/2026:00:10:55 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [25/Jan/2026:00:11:22 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Jan/2026:00:41:19 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Jan/2026:00:41:29 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [25/Jan/2026:00:41:30 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:66:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [25/Jan/2026:00:42:10 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:66:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [27/Jan/2026:04:15:18 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Jan/2026:04:15:30 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Signin error: User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:66:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signin (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [27/Jan/2026:04:15:44 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Jan/2026:04:15:54 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Jan/2026:04:17:15 +0000] \"POST /api/auth/sign-register HTTP/1.1\" 404 162 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Jan/2026:04:17:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [27/Jan/2026:04:17:40 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:03:38 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:03:38 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:03:45 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:04:41 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Sign in error User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:66:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signIn (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:08:16 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Sign in error User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:66:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signIn (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:08:38 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:09:50 +0000] \"GET /api/auth/sign-out HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error authenticating user: Error: User not found","service":"acquisitions-api"}
+{"level":"error","message":"Sign in error User not found","service":"acquisitions-api","stack":"Error: User not found\n    at authenticateUser (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/services/auth.service.js:66:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signIn (file:///Users/johnmegill/Desktop/acquisitions/acquisitions/src/controllers/auth.controller.js:67:18)"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:10:24 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 401 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:10:55 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [29/Jan/2026:20:11:19 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
